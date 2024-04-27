@@ -3,7 +3,7 @@
 
 # Specs
 This is a 8-bit CPU with 64 Kb of addressable memory, emulating 6502 microprocessor (OG used by Woz to make Apple 1).  
-This just does basic LDA and JSR instructions of the CPU 
+This just does basic LDA and JSR instructions of the CPU. 
 It can also create a subroutine, and branch out to execute other instructions.  
 
 # Some Notes  
