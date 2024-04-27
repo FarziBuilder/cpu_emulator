@@ -3,10 +3,8 @@
 
 # Specs
 This is a 8-bit CPU with 64 Kb of addressable memory, emulating 6502 microprocessor (OG used by Woz to make Apple 1).  
-This just does basic LDA and JSR instructions of the CPU i.e. it can go to a register value and execute the instruction and store in accumulator  
+This just does basic LDA and JSR instructions of the CPU 
 It can also create a subroutine, and branch out to execute other instructions.  
-
-Gawd I am a genius (context-i had just solved a simple bug, lol!)
 
 # Some Notes  
 Emulating 6502 microprocessor
